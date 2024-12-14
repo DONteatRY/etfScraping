@@ -1,0 +1,1 @@
+pip3 install requests bs4 selenium lxml urllib3 pyautogui pandas plotly
